@@ -1,0 +1,11 @@
+						KESIMPULAN 4 FILTER EROSI, DILASI, OPENING, & CLOSING
+
+	Dari penerapan empat filter morfologi—erosi, dilasi, opening, dan closing—dapat disimpulkan bahwa filter opening dan closing merupakan metode paling efektif 
+untuk menghilangkan noise pada citra digital. Filter opening sangat baik digunakan untuk menghapus noise putih kecil tanpa merusak struktur utama objek, sedangkan filter 
+closing efektif dalam menutup noise hitam atau lubang kecil di dalam objek terang. Sementara itu, filter erosi dan dilasi kurang tepat digunakan secara mandiri karena 
+dapat merusak bentuk objek. Oleh karena itu, penggunaan filter morfologi gabungan seperti opening dan closing lebih direkomendasikan dalam proses perbaikan kualitas 
+gambar.
+
+	Filter Opening adalah pilihan terbaik untuk menghilangkan noise putih (titik-titik terang kecil).
+	Filter Closing adalah pilihan terbaik untuk menghilangkan noise hitam (lubang-lubang kecil atau bintik gelap).
+	Erosi dan Dilasi, jika digunakan sendiri, kurang ideal untuk menghilangkan noise karena dapat merusak atau menebalkan bentuk objek terlalu ekstrem.
